@@ -5,10 +5,14 @@ package com.sky.main;
  */
 public class SkyMain {
 
+    public static String str = "welcome gx";
+
     public static void main(String[] args) {
+
         System.out.println("hello word!");
-        
-        String str = "welcome gx";
+    
+        System.out.println(str);
+
     }
 
 }
